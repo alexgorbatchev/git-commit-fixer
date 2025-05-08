@@ -1,0 +1,7 @@
+[project]
+name = "git-commit-fixer"
+version = "1.0.0"
+
+dependencies = [
+  "openai==0.28"
+]
